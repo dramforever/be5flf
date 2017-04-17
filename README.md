@@ -1,6 +1,6 @@
 # be5flf
 
-A FIGlet font suitable as a banner font in VSCode. By be5invis. I just made this a `.flf` file.
+A FIGlet font suitable as a banner font in VSCode. By be5invis. I just made it an `.flf` file.
 
 *The following are just some notes, not proper documentation. Sorry.*
 
