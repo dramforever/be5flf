@@ -2,6 +2,8 @@
 
 A FIGlet font suitable as a banner font in VSCode. By be5invis. I just made it an `.flf` file.
 
+[Get pre-built fonts here](https://github.com/dramforever/be5flf/releases)
+
 *The following are just some notes, not proper documentation. Sorry.*
 
 See [this wonderful document](http://www.jave.de/figlet/figfont.html) for more information on FIGlet fonts.
